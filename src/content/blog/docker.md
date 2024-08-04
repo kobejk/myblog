@@ -13,7 +13,7 @@ description: An intro to docker.
 
 ## Docker
 
-Docker is the number 1 tool development tool. It helps developers build applications without configuration or environment setup.
+Docker is the number 1 development tool. It helps developers build applications without configuration or environment setup.
 
 It removes the "well, it works on my machine" problem many face when sharing code/dependencies.
 
